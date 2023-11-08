@@ -1,5 +1,5 @@
 # Scarlet-Knights-Follow-Line-Robot-Challenge-2023
-This repository is made to showcase the work done by my students and myself in order to competer in the Follow Line category in Robot Challenge Egypt 2023 and winning 2nd place.
+This repository is made to showcase the work done by my students and myself in order to compete in the Follow Line category in Robot Challenge Egypt 2023 and winning 2nd place.
 
 The team's members are:
   - Yahia Osama, works as the mechanical designer

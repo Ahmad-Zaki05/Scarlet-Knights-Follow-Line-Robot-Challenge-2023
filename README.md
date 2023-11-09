@@ -5,8 +5,9 @@ Photos of the robot and team members as well as videos of the practice and compe
 
 The team's members are:
   - Yahia Osama, works as the mechanical designer
-  - Galal, works as the electrical and PCB designer
+  - Galal Eldin Ahmed, works as the electrical and PCB designer
   - Yahia Amr, works as the programmer
+  - Ahmad Zaki, the coach
 
 The robot's components are:
   - 5 * TCRT5000 IR sensors: https://makerselectronics.com/product/infrared-line-follower-sensor
